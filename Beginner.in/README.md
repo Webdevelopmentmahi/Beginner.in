@@ -1,1 +1,1 @@
-## This is my first big project create dwith only basics of HTML and CSS
+## This is my first big project created with only basics of HTML and CSS
